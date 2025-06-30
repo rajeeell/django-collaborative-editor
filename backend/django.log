@@ -1,0 +1,68 @@
+Watching for file changes with StatReloader
+[32mHTTP GET /health 301 [0.07, 127.0.0.1:59488][0m
+[mHTTP GET /health/ 200 [0.01, 127.0.0.1:59488][0m
+Not Found: /favicon.ico
+[33mHTTP GET /favicon.ico 404 [0.01, 127.0.0.1:59488][0m
+[32mHTTP GET /admin 301 [0.02, 127.0.0.1:59488][0m
+[32mHTTP GET /admin/ 302 [0.03, 127.0.0.1:59488][0m
+[mHTTP GET /admin/login/?next=/admin/ 200 [0.06, 127.0.0.1:59488][0m
+[mHTTP GET /static/admin/css/base.css 200 [0.21, 127.0.0.1:59488][0m
+[mHTTP GET /static/admin/js/nav_sidebar.js 200 [0.01, 127.0.0.1:59488][0m
+[mHTTP GET /static/admin/css/nav_sidebar.css 200 [0.21, 127.0.0.1:59494][0m
+[mHTTP GET /static/admin/css/login.css 200 [0.21, 127.0.0.1:59495][0m
+[mHTTP GET /static/admin/css/responsive.css 200 [0.22, 127.0.0.1:59496][0m
+[mHTTP GET /static/admin/js/theme.js 200 [0.21, 127.0.0.1:59497][0m
+[mHTTP GET /static/admin/css/dark_mode.css 200 [0.23, 127.0.0.1:59489][0m
+[32mHTTP POST /admin/login/?next=/admin/ 302 [0.22, 127.0.0.1:59489][0m
+[mHTTP GET /admin/ 200 [0.02, 127.0.0.1:59489][0m
+[mHTTP GET /static/admin/css/dashboard.css 200 [0.01, 127.0.0.1:59489][0m
+[mHTTP GET /static/admin/img/icon-changelink.svg 200 [0.00, 127.0.0.1:59497][0m
+[mHTTP GET /static/admin/img/icon-addlink.svg 200 [0.01, 127.0.0.1:59489][0m
+Not Found: /api/auth/
+[33mHTTP GET /api/auth/ 404 [0.04, 127.0.0.1:59497][0m
+WebSocket HANDSHAKING /ws/document/demo_doc_1/ [127.0.0.1:59524]
+WebSocket REJECT /ws/document/demo_doc_1/ [127.0.0.1:59524]
+WebSocket DISCONNECT /ws/document/demo_doc_1/ [127.0.0.1:59524]
+WebSocket HANDSHAKING /ws/document/demo_doc_1/ [127.0.0.1:59526]
+WebSocket REJECT /ws/document/demo_doc_1/ [127.0.0.1:59526]
+WebSocket DISCONNECT /ws/document/demo_doc_1/ [127.0.0.1:59526]
+WebSocket HANDSHAKING /ws/document/demo_doc_1/ [127.0.0.1:59528]
+WebSocket REJECT /ws/document/demo_doc_1/ [127.0.0.1:59528]
+WebSocket DISCONNECT /ws/document/demo_doc_1/ [127.0.0.1:59528]
+WebSocket HANDSHAKING /ws/document/demo_doc_1/ [127.0.0.1:59531]
+WebSocket REJECT /ws/document/demo_doc_1/ [127.0.0.1:59531]
+WebSocket DISCONNECT /ws/document/demo_doc_1/ [127.0.0.1:59531]
+WebSocket HANDSHAKING /ws/document/demo_doc_1/ [127.0.0.1:59535]
+WebSocket REJECT /ws/document/demo_doc_1/ [127.0.0.1:59535]
+WebSocket DISCONNECT /ws/document/demo_doc_1/ [127.0.0.1:59535]
+WebSocket HANDSHAKING /ws/document/demo_doc_1/ [127.0.0.1:59538]
+WebSocket REJECT /ws/document/demo_doc_1/ [127.0.0.1:59538]
+WebSocket DISCONNECT /ws/document/demo_doc_1/ [127.0.0.1:59538]
+WebSocket HANDSHAKING /ws/document/demo_doc_1/ [127.0.0.1:59540]
+WebSocket REJECT /ws/document/demo_doc_1/ [127.0.0.1:59540]
+WebSocket DISCONNECT /ws/document/demo_doc_1/ [127.0.0.1:59540]
+WebSocket HANDSHAKING /ws/document/demo_doc_1/ [127.0.0.1:59543]
+WebSocket REJECT /ws/document/demo_doc_1/ [127.0.0.1:59543]
+WebSocket DISCONNECT /ws/document/demo_doc_1/ [127.0.0.1:59543]
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+WebSocket HANDSHAKING /ws/document/demo_doc_1/ [127.0.0.1:59585]
+WebSocket REJECT /ws/document/demo_doc_1/ [127.0.0.1:59585]
+WebSocket DISCONNECT /ws/document/demo_doc_1/ [127.0.0.1:59585]
+Watching for file changes with StatReloader
+[mHTTP GET /admin/ 200 [0.12, 127.0.0.1:60508][0m
+[36mHTTP GET /static/admin/css/base.css 304 [0.00, 127.0.0.1:60508][0m
+[36mHTTP GET /static/admin/css/dark_mode.css 304 [0.01, 127.0.0.1:60508][0m
+[36mHTTP GET /static/admin/css/nav_sidebar.css 304 [0.01, 127.0.0.1:60509][0m
+[36mHTTP GET /static/admin/css/responsive.css 304 [0.01, 127.0.0.1:60510][0m
+[36mHTTP GET /static/admin/css/dashboard.css 304 [0.01, 127.0.0.1:60511][0m
+[36mHTTP GET /static/admin/js/theme.js 304 [0.01, 127.0.0.1:60511][0m
+[36mHTTP GET /static/admin/js/nav_sidebar.js 304 [0.00, 127.0.0.1:60509][0m
+[36mHTTP GET /static/admin/img/icon-addlink.svg 304 [0.00, 127.0.0.1:60511][0m
+[36mHTTP GET /static/admin/img/icon-changelink.svg 304 [0.01, 127.0.0.1:60509][0m
+[mHTTP OPTIONS /api/auth/verify/ 200 [0.00, 127.0.0.1:60518][0m
+Unsupported Media Type: /api/auth/refresh/
+[31;1mHTTP POST /api/auth/refresh/ 415 [0.02, 127.0.0.1:60518][0m
+C:\Users\raj_t\Desktop\Desktop\backend\collaborative-editor-frontend\backend\collaborative_editor\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
